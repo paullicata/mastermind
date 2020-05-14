@@ -1,0 +1,6 @@
+This is an implementation of the classic board game Mastermind. A secret code of
+4 colors is randomly generated from a possible 6 colors. The player has 12
+attempts to correctly guess the combination. Feedback is given with each guess.
+A black peg 'B' means that a color matches and is in the correct spot. A
+white peg 'W' signifies that a color matches but the spot is wrong. The order of
+the feedback is not correlated with the order of the code. 
